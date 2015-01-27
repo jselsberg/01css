@@ -14,16 +14,16 @@ h1 {text-align: center}
 li.one {
 	text-align: center;
 	margin: 0 1% 0 0;
-	background-color: #29A329;
+	background-color: #009933;
 }
 li.two {
 	text-align: center; 
-	background-color: yellow
+	background-color: #FFCC00
 }
 li.three {
 	text-align: center; 
 	margin: 0 0 0 1%;
-	background-color: #33CC33
+	background-color: #009933
 }
 
 h3 a {
@@ -31,9 +31,10 @@ h3 a {
 	color: black
 }
 
-h3 a: hover {
+a:hover {
 	color: white;
 }
+
 
 p {
 	color: black;

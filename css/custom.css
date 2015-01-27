@@ -1,1 +1,41 @@
 /* custom css */
+ul
+
+li{
+	margin: 0 1.%;
+	padding: 10px;
+	width: 30%;
+	float: left;
+	list-style: none;
+}
+
+h1 {text-align: center}
+
+li.one {
+	text-align: center;
+	margin: 0 1% 0 0;
+	background-color: #29A329;
+}
+li.two {
+	text-align: center; 
+	background-color: yellow
+}
+li.three {
+	text-align: center; 
+	margin: 0 0 0 1%;
+	background-color: #33CC33
+}
+
+h3 a {
+	display: block;
+	color: black
+}
+
+h3 a: hover {
+	color: white;
+}
+
+p {
+	color: black;
+	text-align: center;
+}

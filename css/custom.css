@@ -1,4 +1,9 @@
 /* custom css */
+
+body{
+background-image: url("http://prod.static.packers.clubs.nfl.com/nfl-assets/img/gbl-ico-team/GB/logos/home/large.png")
+}
+
 ul
 
 li{
@@ -14,16 +19,18 @@ h1 {text-align: center}
 li.one {
 	text-align: center;
 	margin: 0 1% 0 0;
-	background-color: #009933;
+	background-color: #307430;
+
 }
 li.two {
 	text-align: center; 
-	background-color: #FFCC00
+	margin: 0 0 1% 0;
+	background-color: #FFCC00;
 }
 li.three {
 	text-align: center; 
 	margin: 0 0 0 1%;
-	background-color: #009933
+	background-color: #307430;
 }
 
 h3 a {
